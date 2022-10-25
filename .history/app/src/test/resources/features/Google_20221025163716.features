@@ -1,0 +1,6 @@
+Feature: Test Google search funcionality
+
+Scenario: As a usa
+     Given navego en Google
+     When busco algo
+     Then obtengo resultados

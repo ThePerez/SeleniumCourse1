@@ -22,8 +22,7 @@ dependencies {
      testImplementation group: 'io.cucumber', name: 'cucumber-junit', version: '7.8.0'
 
      // https://mvnrepository.com/artifact/org.slf4j/slf4j-simple
-     testImplementation group: 'org.slf4j', name: 'slf4j-simple', version: '2.0.0'
-
+     Implementation group: 'org.slf4j', name: 'slf4j-simple', version: '2.0.0'
 
 
 }
