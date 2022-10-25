@@ -1,0 +1,6 @@
+Feature: Probar funcionalidad Google search
+
+Scenario: Buscar en Google
+     Given navego en Google
+     When busco algo
+     Then obtengo resultados
